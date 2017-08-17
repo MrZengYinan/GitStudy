@@ -10,4 +10,6 @@ zyn
 
 zl
 
+
 local update
+github update
